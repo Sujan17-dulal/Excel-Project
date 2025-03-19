@@ -105,5 +105,4 @@ The **Australian Housing Dashboard** serves as an **essential tool** for underst
 
 🏠 Whether you’re planning to **buy, sell, or invest**, staying **data-driven is the key to success** in this ever-evolving market! 📊💡  
 
-Would you like any refinements or specific insights? 🚀
 ![image alt](https://github.com/Sujan17-dulal/Excel-Project/blob/main/Australian%20Housing%20Dashboard%20image.png)
