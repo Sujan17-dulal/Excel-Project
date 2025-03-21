@@ -1,6 +1,8 @@
 # Excel-Project
 
 Budget Tracking
+![image alt](https://github.com/Sujan17-dulal/Excel-Project/blob/main/Budget%20tracking%20image.png)
+
 ## 🏆 Overview  
 The **Budget Tracker** is an Excel-based financial management tool designed to help users track **income, expenses, and savings** with clarity and precision. It leverages **data visualization** to present insightful breakdowns, making financial planning more intuitive and efficient.  
 
@@ -33,10 +35,11 @@ A **Donut Chart** represents the percentage split between **expenses and savings
 - **84% of income** is allocated to expenses  
 - **16% of income** is saved    
 
-![image alt](https://github.com/Sujan17-dulal/Excel-Project/blob/main/Budget%20tracking%20image.png)
 
 
 ### **Australian Housing Market Dashboard: A Data-Driven Insight**  
+![image alt](https://github.com/Sujan17-dulal/Excel-Project/blob/main/Australian%20Housing%20Dashboard%20image.png)
+
 
 The **Australian Housing Dashboard** presents a **comprehensive snapshot** of the real estate market, showcasing key metrics, trends, and agency performance. Whether you’re a **buyer, investor, or industry professional**, this dashboard provides a **valuable, data-backed perspective** on the evolving housing landscape.  
 
@@ -105,4 +108,3 @@ The **Australian Housing Dashboard** serves as an **essential tool** for underst
 
 🏠 Whether you’re planning to **buy, sell, or invest**, staying **data-driven is the key to success** in this ever-evolving market! 📊💡  
 
-![image alt](https://github.com/Sujan17-dulal/Excel-Project/blob/main/Australian%20Housing%20Dashboard%20image.png)
